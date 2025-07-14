@@ -142,7 +142,7 @@ export default function Portfolio() {
     () => [
       {
         name: "Training of Trainers in MHPSS",
-        issuer: "UNICEF",
+        issuer: "Mekelle University",
         date: "2024",
         type: "Mental Health & Psychosocial Support",
         credentialId: "UNICEF-MHPSS-2024",
@@ -151,7 +151,7 @@ export default function Portfolio() {
         icon: Heart as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-pink-500 to-rose-500",
         bgColor: "from-pink-50 to-rose-50",
-        verifyUrl: "https://unicef.org/verify/UNICEF-MHPSS-2024",
+        verifyUrl: "/MBSR_2.jpg",
       },
       {
         name: "Training of Trainers in CPMS",
@@ -163,7 +163,7 @@ export default function Portfolio() {
         icon: Shield as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-blue-500 to-cyan-500",
         bgColor: "from-blue-50 to-cyan-50",
-        verifyUrl: "https://tbst.org/verify/TBST-CPMS-2024",
+        verifyUrl: "/MBSR_10.jpg",
       },
       {
         name: "Mindfulness Based Stress Reduction (MBSR)",
@@ -176,7 +176,7 @@ export default function Portfolio() {
         icon: Brain as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-purple-500 to-violet-500",
         bgColor: "from-purple-50 to-violet-50",
-        verifyUrl: "https://mbsr-program.org/verify/MBSR-2023",
+        verifyUrl: "/MBSR_1.jpg",
       },
       {
         name: "Training of Trainers in PSEA",
@@ -188,7 +188,7 @@ export default function Portfolio() {
         icon: Shield as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-emerald-500 to-teal-500",
         bgColor: "from-emerald-50 to-teal-50",
-        verifyUrl: "https://unwomen.org/verify/UNW-PSEA-2023",
+        verifyUrl: "/MBSR_5.jpg",
       },
       {
         name: "STEM Certificate",
@@ -200,7 +200,7 @@ export default function Portfolio() {
         icon: Code as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-orange-500 to-red-500",
         bgColor: "from-orange-50 to-red-50",
-        verifyUrl: "https://mit.edu/verify/STEM-MIT-2023",
+        verifyUrl: "/MBSR_11.jpg",
       },
       {
         name: "Reach Up! Programme and Coaching",
@@ -212,7 +212,7 @@ export default function Portfolio() {
         icon: TrendingUp as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-indigo-500 to-purple-500",
         bgColor: "from-indigo-50 to-purple-50",
-        verifyUrl: "https://dotethiopia.org/verify/DOT-REACH-2023",
+        verifyUrl: "/MBSR_3.jpg",
       },
       {
         name: "Teen STAR Program",
@@ -224,7 +224,7 @@ export default function Portfolio() {
         icon: Users as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-green-500 to-emerald-500",
         bgColor: "from-green-50 to-emerald-50",
-        verifyUrl: "https://catholic-secretariat.org/verify/ECS-TEEN-2022",
+        verifyUrl: "/MBSR_9.jpg",
       },
       {
         name: "Business Administration Course",
