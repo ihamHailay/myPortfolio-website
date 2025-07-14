@@ -405,8 +405,8 @@ Mekelle University (MIT Campus) | 2018 - 2025 | GPA: 3.89/4.0
 TECHNICAL EXPERIENCE:
 1. Full-Stack Web Developer & Figma Designer Intern
    Timeless Technologies | Nov 2024 – Feb 2025
-   - Developed 8+ responsive web applications
-   - Created 25+ UI/UX prototypes with 98% approval rate
+   - Developed 2+ responsive web applications
+   - Created UI/UX prototypes with 98% approval rate
 
 2. Senior UI/UX Designer
    StudCare PLC | 2024
@@ -661,9 +661,9 @@ For complete details, visit: mahderhailay.dev
               {/* Stats with interactive hover */}
               <div className="flex items-center space-x-12 pt-8 animate-fade-in" style={{ animationDelay: "1s" }}>
                 {[
-                  { number: "5+", label: "Years Experience" },
-                  { number: "20+", label: "Projects Completed" },
-                  { number: "15+", label: "Happy Clients" },
+                  { number: "1+", label: "Years Experience" },
+                  { number: "4+", label: "Projects Completed" },
+                  { number: "5+", label: "Happy Clients" },
                 ].map((stat, index) => (
                   <div key={index} className="group cursor-pointer" onClick={() => scrollToSection("about")}>
                     <div className="font-heading text-4xl font-bold text-gray-900 mb-1 transition-all duration-300 group-hover:text-orange-500 group-hover:scale-110">
@@ -757,13 +757,13 @@ For complete details, visit: mahderhailay.dev
             <div className="space-y-6 animate-slide-up" style={{ animationDelay: "0.3s" }}>
               <div className="prose prose-lg max-w-none">
                 <p className="font-body text-gray-600 leading-relaxed">
-                  I'm a passionate Software Engineer and IT Specialist with over 5 years of hands-on experience in
+                  I'm a passionate Software Engineer and IT Specialist with over 1 years of hands-on experience in
                   full-stack development, system automation, and UI/UX design. Currently pursuing my Bachelor's degree
                   in Information Technology at Mekelle University with a strong GPA of 3.89.
                 </p>
                 <p className="font-body text-gray-600 leading-relaxed">
                   My expertise spans across modern web technologies including React, Node.js, Python, and cloud
-                  platforms. I've successfully delivered 20+ projects ranging from mobile applications to enterprise
+                  platforms. I've successfully delivered  projects ranging from mobile applications to enterprise
                   systems.
                 </p>
               </div>
