@@ -92,7 +92,7 @@ export default function Portfolio() {
     () => ({
       github: "https://github.com/mahderhailay",
       linkedin: "https://linkedin.com/in/mahder-hailay",
-      facebook: "https://facebook.com/mahder.hailay",
+      facebook: "https://facebook.com/mahder_hailay",
       instagram: "https://instagram.com/mahder_hailay",
       email: "mailto:abadimahder2415@gmail.com",
       phone: "tel:+251982195210",
@@ -138,7 +138,7 @@ export default function Portfolio() {
     [],
   )
 
-  const certifications: Certification[] = useMemo(
+  const certifications = useMemo<Certification[]>(
     () => [
       {
         name: "Training of Trainers in MHPSS",
@@ -148,7 +148,7 @@ export default function Portfolio() {
         credentialId: "UNICEF-MHPSS-2024",
         description:
           "Advanced training in mental health support and psychosocial interventions for vulnerable populations",
-        icon: Heart,
+        icon: Heart as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-pink-500 to-rose-500",
         bgColor: "from-pink-50 to-rose-50",
         verifyUrl: "https://unicef.org/verify/UNICEF-MHPSS-2024",
@@ -160,7 +160,7 @@ export default function Portfolio() {
         type: "Child Protection",
         credentialId: "TBST-CPMS-2024",
         description: "Child Protection Minimum Standards training and certification for safeguarding children",
-        icon: Shield,
+        icon: Shield as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-blue-500 to-cyan-500",
         bgColor: "from-blue-50 to-cyan-50",
         verifyUrl: "https://tbst.org/verify/TBST-CPMS-2024",
@@ -173,7 +173,7 @@ export default function Portfolio() {
         credentialId: "MBSR-2023",
         description:
           "8-week intensive mindfulness and stress reduction program for personal and professional development",
-        icon: Brain,
+        icon: Brain as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-purple-500 to-violet-500",
         bgColor: "from-purple-50 to-violet-50",
         verifyUrl: "https://mbsr-program.org/verify/MBSR-2023",
@@ -185,7 +185,7 @@ export default function Portfolio() {
         type: "Protection from Sexual Exploitation",
         credentialId: "UNW-PSEA-2023",
         description: "Prevention of Sexual Exploitation and Abuse training for humanitarian and development work",
-        icon: Shield,
+        icon: Shield as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-emerald-500 to-teal-500",
         bgColor: "from-emerald-50 to-teal-50",
         verifyUrl: "https://unwomen.org/verify/UNW-PSEA-2023",
@@ -197,7 +197,7 @@ export default function Portfolio() {
         type: "Science, Technology, Engineering & Mathematics",
         credentialId: "STEM-MIT-2023",
         description: "Comprehensive STEM education and methodology certification from prestigious institutions",
-        icon: Code,
+        icon: Code as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-orange-500 to-red-500",
         bgColor: "from-orange-50 to-red-50",
         verifyUrl: "https://mit.edu/verify/STEM-MIT-2023",
@@ -209,7 +209,7 @@ export default function Portfolio() {
         type: "Professional Development",
         credentialId: "DOT-REACH-2023",
         description: "Leadership development and professional coaching program for career advancement",
-        icon: TrendingUp,
+        icon: TrendingUp as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-indigo-500 to-purple-500",
         bgColor: "from-indigo-50 to-purple-50",
         verifyUrl: "https://dotethiopia.org/verify/DOT-REACH-2023",
@@ -221,7 +221,7 @@ export default function Portfolio() {
         type: "Youth Development",
         credentialId: "ECS-TEEN-2022",
         description: "Youth leadership and community engagement program focusing on social responsibility",
-        icon: Users,
+        icon: Users as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-green-500 to-emerald-500",
         bgColor: "from-green-50 to-emerald-50",
         verifyUrl: "https://catholic-secretariat.org/verify/ECS-TEEN-2022",
@@ -233,10 +233,10 @@ export default function Portfolio() {
         type: "Business Management",
         credentialId: "MU-BA-2022",
         description: "Comprehensive business administration and management principles for entrepreneurial success",
-        icon: BookOpen,
+        icon: BookOpen as React.ComponentType<{ size?: number; className?: string }>,
         color: "from-amber-500 to-orange-500",
         bgColor: "from-amber-50 to-orange-50",
-        verifyUrl: "https://mu.edu.et/verify/MU-BA-2022",
+        verifyUrl: "/MBSR_8.jpg",
       },
     ],
     [],
