@@ -115,7 +115,7 @@ export default function Portfolio() {
         description: "Full-stack reservation platform with real-time availability and payment processing.",
         tech: ["React", "Node.js", "PostgreSQL", "Stripe"],
         github: "https://github.com/mahderhailay/hotel-booking",
-        demo: "https://hotel-booking-demo.vercel.app",
+        demo: "shadefinder-frontend.pages.dev",
         status: "Live",
       },
       {
