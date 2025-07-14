@@ -123,7 +123,7 @@ export default function Portfolio() {
         description: "AI-powered geolocation app for finding optimal shade locations using environmental data.",
         tech: ["Vue.js", "Flask", "TensorFlow", "Mapbox"],
         github: "https://github.com/mahderhailay/shade-finder",
-        demo: "https://shade-finder-demo.vercel.app",
+        demo: "https://shadefinder-frontend.pages.dev/",
         status: "Beta",
       },
       {
