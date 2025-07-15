@@ -899,6 +899,13 @@ For complete details, visit: mahderhailay.dev
                     description: "Developed attendance tracking system with real-time capabilities.",
                     website: "https://savethechildren.org",
                   },
+                  {
+                    title: "Customer Services and System Traniner",
+                    company: "Henon Technologies PLC",
+                    period: "2025",
+                    description: " - Handle Customer Questions and enquries, Prepare Training and Manuals about school management system for the customers.",
+                    website: "https://HenonTechnologies.org",
+                  },
                 ].map((exp, index) => (
                   <div
                     key={index}
