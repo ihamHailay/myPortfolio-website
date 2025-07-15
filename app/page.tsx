@@ -421,7 +421,7 @@ TECHNICAL EXPERIENCE:
 4. Customer Service and System Trainer 
    Henon Technologies PLC
    - Handle Customer Questions and enquries
-   - Prepare Training and Manuals about school management system for the customers
+   - Prepare Training and Manuals about school management system for the customers.
 
 TECHNICAL SKILLS:
 - Programming: JavaScript, TypeScript, Python, Java, C++
