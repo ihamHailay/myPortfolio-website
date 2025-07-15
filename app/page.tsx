@@ -107,7 +107,7 @@ export default function Portfolio() {
         description: "Comprehensive tourism platform for Ethiopian destinations with real-time location services.",
         tech: ["React Native", "Node.js", "Python", "MongoDB"],
         github: "https://github.com/mahderhailay/exploret",
-        demo: "https://exploret-demo.vercel.app",
+        demo: "/explorET",
         status: "Live",
       },
       {
