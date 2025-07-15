@@ -415,14 +415,19 @@ TECHNICAL EXPERIENCE:
 
 3. Web Developer
    Save the Children International | 2024
-   - Built attendance system for 600+ daily check-ins
+   - Built attendance system for daily check-ins
    - Achieved 99.9% system uptime
+
+4. Customer Service and System Trainer 
+   Henon Technologies PLC
+   - Handle Customer Questions and enquries
+   - Prepare Training and Manuals about school management system for the customers
 
 TECHNICAL SKILLS:
 - Programming: JavaScript, TypeScript, Python, Java, C++
 - Frontend: React.js, Vue.js, Next.js, HTML5/CSS3, Tailwind CSS
 - Backend: Node.js, Express.js, Flask, MySQL, PostgreSQL, MongoDB
-- Design: Figma, Adobe XD, Canva, UI/UX Design
+- Design: Figma,Canva, UI/UX Design
 - Tools: Git/GitHub, Docker, AWS, Network Design
 
 CERTIFICATIONS:
@@ -758,7 +763,7 @@ For complete details, visit: mahderhailay.dev
               <div className="prose prose-lg max-w-none">
                 <p className="font-body text-gray-600 leading-relaxed">
                   I'm a passionate Software Engineer and IT Specialist with over 1 years of hands-on experience in
-                  full-stack development, system automation, and UI/UX design. Currently pursuing my Bachelor's degree
+                  full-stack development, system automation, and UI/UX design. I got my Bachelor's degree
                   in Information Technology at Mekelle University with a strong GPA of 3.89.
                 </p>
                 <p className="font-body text-gray-600 leading-relaxed">
@@ -819,7 +824,7 @@ For complete details, visit: mahderhailay.dev
                     { name: "JavaScript/TypeScript", level: 95 },
                     { name: "React/Next.js", level: 90 },
                     { name: "Node.js", level: 85 },
-                    { name: "Python", level: 80 },
+                    { name: "Python", level: 65 },
                   ].map((skill, index) => (
                     <div key={index} className="group">
                       <div className="flex justify-between mb-2">
@@ -884,7 +889,7 @@ For complete details, visit: mahderhailay.dev
                     title: "Senior UI/UX Designer",
                     company: "StudCare PLC",
                     period: "2024",
-                    description: "Led UX improvements for healthcare applications serving 10,000+ users.",
+                    description: "Led UX improvements for StudCare website that serves a university in different ways.",
                     website: "https://studcare.com",
                   },
                   {
