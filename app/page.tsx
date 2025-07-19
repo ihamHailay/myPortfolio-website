@@ -120,8 +120,8 @@ export default function Portfolio() {
       },
       {
         title: "Shade Finder Application",
-        description: "AI-powered geolocation app for finding optimal shade locations using environmental data.",
-        tech: ["Vue.js", "Flask", "TensorFlow", "Mapbox"],
+        description: "AI-powered foundation shade recommeder based on your skin tone and undertone from multiple Beauty Brands.",
+        tech: ["Vue.js", "Flask", "TensorFlow", "Nodejs"],
         github: "https://github.com/mahderhailay/shade-finder",
         demo: "https://shadefinder-frontend.pages.dev/",
         status: "Beta",

@@ -34,7 +34,7 @@ const jetbrainsMono = JetBrains_Mono({
 export const metadata: Metadata = {
   title: "Mahder Hailay - Software Engineer & IT Specialist",
   description:
-    "Building scalable web services & automations. Full-stack developer with 5+ years experience in React, Node.js, Python, and cloud technologies.",
+    "Building scalable web services & automations. Full-stack developer with 1+ years experience in React, Node.js, Python, and cloud technologies.",
   keywords: [
     "Software Engineer",
     "Full Stack Developer",
