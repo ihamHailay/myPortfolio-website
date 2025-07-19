@@ -51,13 +51,13 @@ export const metadata: Metadata = {
     locale: "en_US",
     url: "https://mahderhailay.dev",
     title: "Mahder Hailay - Software Engineer & IT Specialist",
-    description: "Building scalable web services & automations. Full-stack developer with 5+ years experience.",
+    description: "Building scalable web services & automations. Full-stack developer with 1+ years experience.",
     siteName: "Mahder Hailay Portfolio",
   },
   twitter: {
     card: "summary_large_image",
     title: "Mahder Hailay - Software Engineer & IT Specialist",
-    description: "Building scalable web services & automations. Full-stack developer with 5+ years experience.",
+    description: "Building scalable web services & automations. Full-stack developer with 1+ years experience.",
   },
   robots: {
     index: true,
